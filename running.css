@@ -1,0 +1,16 @@
+.stage{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+  }
+  *{
+    padding:0;
+    margin:0;
+  }
+  .trace{
+    border:1px solid black;
+    margin-bottom:10px;
+  }
+  .background{
+    padding:40px;
+  }
